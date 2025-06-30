@@ -1,4 +1,5 @@
 # backend-git-versionamento
 Projeto de versionamento
 
-Adicionando configuração do github
+Atualizar o projeto com
+    git pull origin main
